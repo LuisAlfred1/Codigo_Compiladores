@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Compiladores\Ejemplos_Semana_5\Modulares\Ejemplo5_Comparacion_AFNvsAFD\build\CMakeFiles\6d249eca0d24b1c62350471bd60c52d2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5CF2438C-3BEA-39EF-ABCF-36D4C0715E20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
