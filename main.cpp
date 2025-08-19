@@ -20,5 +20,3 @@ int main() {
         std::cout << "Cadena RECHAZADA\n";
     return 0;
 }
-
-
